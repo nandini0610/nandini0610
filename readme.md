@@ -55,8 +55,8 @@
     <td>🎵 Retro music lover & movie buff</td>
   </tr>
   <tr>
-    <td>📚 History buff & lifelong learner</td>
-    <td>📜 Quizzer</td>
+    <td>📚 Astronomy buff & lifelong learner</td>
+    <td>📜 Potter head</td>
   </tr>
 </table>
 
